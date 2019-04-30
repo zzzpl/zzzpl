@@ -5,6 +5,9 @@
 
 
 
+
+
+
 #content4-d .mbr-section__col .mbr-header__text {
   text-align: left;
   font-size: 10px;
@@ -20,6 +23,25 @@
   text-align: center;
 }
 #content4-d .mbr-section-title .mbr-header__text {
+  font-family: 'Lora', serif;
+  text-align: center;
+  font-size: 36px;
+}
+#content4-l .mbr-section__col .mbr-header__text {
+  text-align: left;
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+  color: #f95252;
+}
+#content4-l P {
+  text-align: left;
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+#content4-l .mbr-header__subtext {
+  text-align: center;
+}
+#content4-l .mbr-section-title .mbr-header__text {
   font-family: 'Lora', serif;
   text-align: center;
   font-size: 36px;
