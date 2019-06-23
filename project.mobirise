@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Roman Skrypnyk",
-    "currentPage": "index.html",
+    "currentPage": "production.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -15,7 +15,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.6",
     "siteFonts": [],
-    "uniqCompNum": 22,
+    "uniqCompNum": 26,
     "versionPublish": "4.10.0",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/video-camera-128x128.png",
@@ -68,7 +68,7 @@
           ],
           "headerAlign": "left",
           "header": "ROMAN SKRYPNYK",
-          "subheader": "<span style=\"font-style: normal;\">videographer, editor</span>",
+          "subheader": "<span style=\"font-style: normal;\"><a href=\"index.html\" class=\"text-black\">videographer</a>, <a href=\"production.html\" class=\"text-black\">editor</a></span>",
           "media1": {
             "image": {
               "active": true,
@@ -87,7 +87,7 @@
             }
           },
           "title1": "Current Time",
-          "caption1": "<a href=\"https://www.facebook.com/watch/?v=370690633337786\" target=\"_blank\" class=\"text-black\">Georgiy</a><br><a href=\"https://www.facebook.com/watch/?v=412338605839655\" target=\"_blank\" class=\"text-black\">Sign language courses</a><br><a href=\"https://www.facebook.com/watch/?v=359264394480410\" target=\"_blank\" class=\"text-black\">Coworking for mums</a><br><a href=\"https://www.facebook.com/watch/?v=522242444886804\" target=\"_blank\" class=\"text-black\">Inclusive archers</a><br><a href=\"https://www.facebook.com/watch/?v=420701245003391\" target=\"_blank\" class=\"text-black\">Self-defence for women</a><br><a href=\"https://www.facebook.com/zoom.current.time/videos/162685138002981/\" target=\"_blank\" class=\"text-black\">Theatre «Verim»</a>",
+          "caption1": "<a href=\"https://www.facebook.com/watch/?v=370690633337786\" target=\"_blank\" class=\"text-black\">Georgiy</a><br><a href=\"https://www.facebook.com/watch/?v=412338605839655\" target=\"_blank\" class=\"text-black\"><b>Sign language courses</b></a><br><a href=\"https://www.facebook.com/watch/?v=359264394480410\" target=\"_blank\" class=\"text-black\">Coworking for mums</a><br><a href=\"https://www.facebook.com/watch/?v=522242444886804\" target=\"_blank\" class=\"text-black\">Inclusive archers</a><br><a href=\"https://www.facebook.com/watch/?v=420701245003391\" target=\"_blank\" class=\"text-black\">Self-defence for women</a><br><a href=\"https://www.facebook.com/zoom.current.time/videos/162685138002981/\" target=\"_blank\" class=\"text-black\">Theatre «Verim»</a>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -107,7 +107,7 @@
             }
           },
           "title2": "Radio Svoboda",
-          "caption2": "<a href=\"https://www.radiosvoboda.org/a/video/29151807.html\" target=\"_blank\" class=\"text-black\">Batallion commander</a><br><a href=\"https://www.radiosvoboda.org/a/video-vady-slukhu/29590335.html?fbclid=IwAR3zpr-sfdLRRfEf2s40kjue2U8Tu3X8Etn59zmin2AYs9-49zrbTtWlog8\" target=\"_blank\" class=\"text-black\">Nastya, sign language teacher</a><br><a href=\"https://www.radiosvoboda.org/a/stem-education/28466291.html\" target=\"_blank\" class=\"text-black\">STEM</a><br><a href=\"https://www.radiosvoboda.org/a/stem-education/28466291.html\" target=\"_blank\" class=\"text-black\"><a href=\"https://www.radiosvoboda.org/a/stem-education/28466291.html\" target=\"_blank\">Heat in train</a><br></a><br>",
+          "caption2": "<a href=\"https://www.radiosvoboda.org/a/video/29151807.html\" target=\"_blank\" class=\"text-black\">Batallion commander</a><br><a href=\"https://www.radiosvoboda.org/a/video-vady-slukhu/29590335.html?fbclid=IwAR3zpr-sfdLRRfEf2s40kjue2U8Tu3X8Etn59zmin2AYs9-49zrbTtWlog8\" target=\"_blank\" class=\"text-black\">Nastya, sign language teacher</a><br><a href=\"https://www.radiosvoboda.org/a/stem-education/28466291.html\" target=\"_blank\" class=\"text-black\">STEM</a><br><a href=\"https://www.radiosvoboda.org/a/stem-education/28466291.html\" target=\"_blank\" class=\"text-black\"></a><a href=\"https://www.radiosvoboda.org/a/stem-education/28466291.html\" target=\"_blank\" class=\"text-black\">Heat in train</a><br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -127,7 +127,7 @@
             }
           },
           "title3": "Open Media Hub",
-          "caption3": "<a href=\"https://openmediahub.com/ru/access-stories/being-20-ambitious-ukrainian-girl-volunteer-on-deaf-people-integration/\" class=\"text-black\" target=\"_blank\">Nastya, sign language teacher</a><br><a href=\"https://openmediahub.com/ru/access-stories/286-20-radio-liberty-ukrainian-medical-battalion-commander/\" class=\"text-black\" target=\"_blank\">Batallion commander</a><br><br>",
+          "caption3": "<a href=\"https://openmediahub.com/ru/access-stories/being-20-ambitious-ukrainian-girl-volunteer-on-deaf-people-integration/\" class=\"text-black\" target=\"_blank\">Nastya, sign language teacher</a><br><a href=\"https://openmediahub.com/ru/access-stories/286-20-radio-liberty-ukrainian-medical-battalion-commander/\" class=\"text-black\" target=\"_blank\"><b>Batallion commander</b></a><br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -147,7 +147,7 @@
             }
           },
           "title4": "The Ukrainians",
-          "caption4": "<a href=\"https://theukrainians.org/vzyaly-i-roblyat/\" target=\"_blank\" class=\"text-black\">Ukrainian makers</a><a href=\"https://theukrainians.org/vzyaly-i-roblyat/\" target=\"_blank\"><br></a><br>",
+          "caption4": "<a href=\"https://theukrainians.org/vzyaly-i-roblyat/\" target=\"_blank\" class=\"text-black\"><b>Ukrainian makers</b></a><a href=\"https://theukrainians.org/vzyaly-i-roblyat/\" target=\"_blank\"><br></a><br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -187,7 +187,7 @@
             }
           },
           "title6": "ZAG",
-          "caption6": "<a href=\"https://www.facebook.com/hellozag/videos/394339861165895/\" class=\"text-black\" target=\"_blank\">Thomas</a><br>",
+          "caption6": "<a href=\"https://www.facebook.com/hellozag/videos/394339861165895/\" class=\"text-black\" target=\"_blank\"><b>Thomas</b></a><br>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_anchor": "content4-d",
@@ -215,6 +215,243 @@
               "font-size": "36px"
             }
           }
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525"
+            },
+            ".mbr-article": {
+              "color": "#252525",
+              "font-size": "10px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "right"
+            },
+            ".btn": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "10px"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ONE OF THE EASIEST WEBSITE BUILDERS TODAY.",
+          "text": "2019",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://t.me/timesnewroman14\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WRITE TO ME</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-j"
+        }
+      ]
+    },
+    "production.html": {
+      "settings": {
+        "title": "production",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "features1",
+          "_params": {
+            "showHeader": true,
+            "showSubheader": true,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "headerAlign": "left",
+          "header": "ROMAN SKRYPNYK",
+          "subheader": "<span style=\"font-style: normal;\"><a href=\"index.html\" class=\"text-black\">videographer</a>, <a href=\"production.html\" class=\"text-black\">editor</a></span>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "VFX",
+          "caption1": "<a href=\"https://www.instagram.com/p/BK4JaNBjg6C/\" target=\"_blank\" class=\"text-black\">The whale's on the wall</a><br><b><a href=\"https://www.facebook.com/starokoltseva/videos/1846286312101006/\" target=\"_blank\" class=\"text-black\">Дотик створює слово</a><br></b><a href=\"https://www.instagram.com/p/BZG1v-FHtOJ/\" target=\"_blank\" class=\"text-black\">Banksy in Dnipro</a><br><a href=\"https://www.instagram.com/p/BKq09sxjBRJ/\" target=\"_blank\" class=\"text-black\">Power is a lie</a><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Promo",
+          "caption2": "<b><a href=\"https://www.facebook.com/labaplatform/videos/1734077593385209/?v=1734077593385209\" target=\"_blank\" class=\"text-black\">Курс «Кадры решают все»</a><br></b><a href=\"https://www.facebook.com/ksiprostir/videos/1247972078670152/?v=1247972078670152\" target=\"_blank\" class=\"text-black\">Smartphone storytelling</a><br><a href=\"https://www.instagram.com/p/BOf0vCYjcmY/\" target=\"_blank\" class=\"text-black\">Christmas program</a><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Image video",
+          "caption3": "<a href=\"https://www.facebook.com/blackbunnyproduction/videos/1327468074029697/\" target=\"_blank\" class=\"text-black\">Story of one history</a><br><a href=\"https://www.facebook.com/urbanspaceradio/videos/1590470740974223/?v=1590470740974223\" target=\"_blank\" class=\"text-black\">Urban Space radio</a><br><a href=\"https://www.facebook.com/fundpomogaem/videos/546667959154107/UzpfSTEwMDAwNzk2NzM3OTA4NDoyMjg4Nzk2MTU0NzI5Mjc1/\" target=\"_blank\" class=\"text-black\">БФ «Помогаем»</a><br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Backstage",
+          "caption4": "<a href=\"https://www.facebook.com/ekonomikagroup/videos/1684841671627494/UzpfSTEwMDAwNzk2NzM3OTA4NDozMDYwNjExMjk0OTk0MTQ6MTA6MTUxNDc5MzYwMDoxNTQ2MzI5NTk5Oi03NTIxMTQ1ODU3NjYwMTkxMzM0/\" target=\"_blank\" class=\"text-black\">Business Wisdow Summit 2018</a><br><a href=\"https://www.facebook.com/blackbunnyproduction/videos/1571514646291704/UzpfSTEwMDAwNzk2NzM3OTA4NDoyMTE4MzU4NjIxNzczMDMw/\" target=\"_blank\" class=\"text-black\"><b>15x4 More knowledge</b></a><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "Mojo",
+          "caption5": "<a href=\"https://www.facebook.com/skrypnikroman/videos/1900661823542712/\" target=\"_blank\" class=\"text-black\">Filmwalk<br></a><br>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "Other",
+          "caption6": "<a href=\"https://www.facebook.com/blackbunnyproduction/videos/1339531736156664/UzpfSTEwMDAwNzk2NzM3OTA4NDoxOTg1MDIyMjkxNzczMzMx/\" target=\"_blank\" class=\"text-black\">Mr Lynch</a><br>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_name": "content4",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "left",
+              "font-size": "10px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#f95252"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "10px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "content4-n"
         },
         {
           "_inherit": "msg-box1",
