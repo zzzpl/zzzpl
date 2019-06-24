@@ -23,9 +23,7 @@
     "siteUrl": "undefined",
     "google-analytics": "",
     "cookiesAlert": "",
-    "gdpr": "",
-    "publishType": "local",
-    "publishPath": "file:///Users/timesnewroman14/Documents/GitHub/zzzpl.github.io"
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
